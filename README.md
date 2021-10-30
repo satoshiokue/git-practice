@@ -1,2 +1,2 @@
 # git-practice
-git練習
+conflict-remote上で更新
