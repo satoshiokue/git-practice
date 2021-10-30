@@ -1,2 +1,2 @@
 # git-practice
-git練習
+git練習2回目
